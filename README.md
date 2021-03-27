@@ -1,3 +1,5 @@
+
+
 THIS is to use an alternative to adruino and c++/embedded c by using esp 8622 and micropython.
 first go to https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html and follow steps to setup your esp 8622 and micropython setup in system.
 YOU can use generally any os.
@@ -13,3 +15,4 @@ if it runs without error then micropython has been installed on the board.
 I am not a expert on this , i was justing enjoying esp 8622 and was  shocked seeing it supports micropython and went on reading its documentation and applying so, you if you guys find a lot of errors please correct them and feel free  to check out espressif github page for learning more about esp 8622 and implementation on the board.   
 
  
+YOU will need a esp 8266 connected to your pc on which you will code , and will need a usb cable for the connection.
