@@ -26,5 +26,5 @@ def do_connect():
     print('network config:', wlan.ifconfig())
 '''    
 this will establish network between esp and local wifi
-well using c++ setup too you can build establish network 
-using 
+well using c++ setup too you can build establish network '''
+
