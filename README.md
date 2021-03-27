@@ -10,5 +10,6 @@ and then deploy it using
                    "esptool.py --port /dev/ttyUSB0 --baud 460800 write_flash --flash_size=detect 0 esp8266-20170108-v1.8.7.bin"
 
 if it runs without error then micropython has been installed on the board.
+I am not a expert on this , i was justing enjoying esp 8622 and was  shocked seeing it supports micropython and went on reading its documentation and applying so, you if you guys find a lot of errors please correct them and feel free  to check out espressif github page for learning more about esp 8622 and implementation on the board.   
 
-
+ 
